@@ -60,7 +60,7 @@ int main()
     printf("Nome da cidade: ");
     scanf("%s", nome2);
 
-    printf("População: ");
+    printf("População:  ");
     scanf(" %i" , &populacao2);
     
     printf("Área: ");
@@ -120,7 +120,7 @@ int main()
     }
     else
     {
-        printf("Empate! Ambas as cartas têm a mesma soma de atributos.\n");
+        printf("Empate!! Ambas as cartas têm a mesma soma de atributos.\n");
     }
     
     return 0;
