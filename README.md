@@ -20,6 +20,26 @@ Como Compilar e Executar
 
 4- A carta com a maior soma vencerá a rodada.
 
+## 📋 Atributos Disponíveis para Comparação
+Os atributos escolhidos devem ser diferentes um do outro
+1- População
+2- Área
+3- PIB
+4- PIB per capita
+5- Densidade populacional
+6- Número de pontos turísticos
+### Saída Esperada:
+```
+------Carta 1-------
+Nome da cidade: SãoPaulo
+Soma dos atributos escolhidos: 232000000.00
+------Carta 2------
+Nome da cidade: RioDeJaneiro
+Soma dos atributos escolhidos: 186700000.00
+-----------------
+Carta 1 venceu com a maior soma dos atributos!
+```
+
 ## 🚀Possíveis Melhorias
 
 - Implementação de múltiplas rodadas.
